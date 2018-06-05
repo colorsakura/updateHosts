@@ -4,6 +4,7 @@
 #############################
 # name:updateHosts
 # author:https://github.com/ladder1984
+# update by: https://github.com/colorsakura
 # version:1.3.4
 # license:MIT
 ############################
